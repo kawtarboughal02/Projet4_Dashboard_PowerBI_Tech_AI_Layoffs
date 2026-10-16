@@ -1,0 +1,86 @@
+﻿================================================================================
+PROJET 4 — Tableau de bord Power BI : Licenciements dans la tech et l'IA (2020–2026)
+================================================================================
+
+Auteure : Kawtar Boughal
+GitHub : https://github.com/kawtarboughal02/Projet4_Dashboard_PowerBI_Tech_AI_Layoffs
+LinkedIn : https://www.linkedin.com/in/kawtar-boughal02
+
+--------------------------------------------------------------------------------
+PRÉREQUIS
+--------------------------------------------------------------------------------
+
+- Power BI Desktop (version gratuite, Windows)
+  Téléchargement : https://powerbi.microsoft.com/desktop/
+
+- Jeu de données source (non inclus dans ce dépôt)
+  Source : Global AI & Tech Layoffs Dataset (2020–2026) sur Kaggle
+  URL : https://www.kaggle.com/datasets/prajitdatta/global-ai-and-tech-layoffs-dataset-20202026
+  Le fichier doit être enregistré sous le nom : tech_market_raw.csv
+
+--------------------------------------------------------------------------------
+OUVERTURE DU PROJET
+--------------------------------------------------------------------------------
+
+1. Télécharger le jeu de données depuis Kaggle (voir data/README_donnees.md)
+   et l'enregistrer sous le nom tech_market_raw.csv.
+
+2. Ouvrir le fichier :
+   powerbi/tech_ai_layoffs_dashboard.pbix
+
+   avec Power BI Desktop.
+
+3. Si Power BI signale une source introuvable :
+   - Accueil → Transformer les données
+   - Sélectionner Faits_Licenciements
+   - Ouvrir l'étape Source dans le panneau Étapes appliquées
+   - Indiquer le chemin du fichier tech_market_raw.csv
+
+4. Accueil → Actualiser pour recharger les données.
+
+--------------------------------------------------------------------------------
+STRUCTURE DU DÉPÔT
+--------------------------------------------------------------------------------
+
+Projet4_Dashboard_PowerBI_Tech_AI_Layoffs/
+├── data/
+│   ├── README_donnees.csv        # jeu de données brut (à télécharger sur Kaggle)
+│   └── README_donnees.md         # documentation source, licence, variables
+├── powerbi/
+│   └── tech_ai_layoffs_dashboard.pbix   # fichier Power BI Desktop
+├── outputs/
+│   ├── figures/
+│   │   ├── 01_vue_executive.png
+│   │   ├── 02_analyse_geographique.png
+│   │   ├── 03_ia_et_reste_du_marche.png
+│   │   ├── 04_modele_en_etoile.png
+│   │   ├── 05_power_query_etapes.png
+│   │   └── 06_page_methodologie.png
+│   └── rapport/
+│       └── tech_ai_layoffs_dashboard.pdf
+├── rapport_final.md              # rapport détaillé (FR / EN)
+├── README.md                     # présentation du projet (FR / EN)
+└── requirements_or_info.txt      # ce fichier : prérequis et ouverture
+
+--------------------------------------------------------------------------------
+COMPÉTENCES DÉMONTRÉES
+--------------------------------------------------------------------------------
+
+- Import et nettoyage ETL avec Power Query
+- Modélisation dimensionnelle (schéma en étoile, table de dates)
+- Langage DAX (mesures, CALCULATE, TOPN, ALLSELECTED, DIVIDE)
+- Conception de rapports Power BI (deux publics, navigation, segments)
+- Esprit critique et documentation des limites des données
+- Business Intelligence descriptive (sans Machine Learning)
+
+--------------------------------------------------------------------------------
+LICENCE ET USAGE
+--------------------------------------------------------------------------------
+
+Le tableau de bord et la documentation sont fournis à des fins pédagogiques
+et de démonstration de compétences en Business Intelligence.
+
+Le jeu de données brut reste soumis à la licence de sa source Kaggle.
+Le fichier .pbix n'est pas publié en ligne (voir limites dans rapport_final.md).
+
+================================================================================

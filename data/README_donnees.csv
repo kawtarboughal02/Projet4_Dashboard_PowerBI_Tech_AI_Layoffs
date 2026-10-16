@@ -1,0 +1,1851 @@
+event_id,company,industry,hq_country,hq_city,continent,founded_year,company_size_est,company_status,date_announced
+LO-1034,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2020-01-04
+LO-1020,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2020-01-06
+LO-1051,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2020-01-08
+LO-1063,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2020-01-09
+LO-1139,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2020-01-11
+LO-1026,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2020-01-22
+LO-1096,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2020-01-23
+LO-1177,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2020-01-24
+LO-1000,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2020-01-24
+LO-1002,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2020-01-25
+LO-1019,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-02-02
+LO-1102,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2020-02-03
+LO-1134,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2020-02-04
+LO-1045,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2020-02-05
+LO-1150,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2020-02-05
+LO-1056,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2020-02-09
+LO-1146,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2020-02-09
+LO-1090,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2020-02-10
+LO-1015,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2020-02-11
+LO-1105,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2020-02-14
+LO-1081,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-02-16
+LO-1017,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2020-02-22
+LO-1143,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2020-02-22
+LO-1093,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2020-02-22
+LO-1040,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2020-02-27
+LO-1061,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2020-02-27
+LO-1022,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2020-02-28
+LO-1132,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2020-03-02
+LO-1086,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2020-03-03
+LO-1068,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2020-03-03
+LO-1162,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2020-03-04
+LO-1178,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2020-03-05
+LO-1125,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2020-03-07
+LO-1084,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2020-03-08
+LO-1066,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2020-03-08
+LO-1100,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2020-03-09
+LO-1152,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2020-03-11
+LO-1173,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-03-14
+LO-1156,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2020-03-15
+LO-1078,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2020-03-15
+LO-1071,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2020-03-19
+LO-1149,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-03-20
+LO-1163,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2020-03-23
+LO-1031,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2020-03-26
+LO-1166,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2020-03-27
+LO-1049,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2020-03-28
+LO-1013,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2020-04-02
+LO-1018,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2020-04-07
+LO-1171,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2020-04-07
+LO-1001,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2020-04-08
+LO-1074,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2020-04-09
+LO-1067,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2020-04-10
+LO-1128,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2020-04-12
+LO-1087,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2020-04-13
+LO-1098,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-04-19
+LO-1135,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2020-04-19
+LO-1172,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2020-04-21
+LO-1144,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2020-04-25
+LO-1079,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2020-04-28
+LO-1129,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2020-05-02
+LO-1119,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2020-05-03
+LO-1007,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2020-05-03
+LO-1064,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2020-05-03
+LO-1114,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2020-05-04
+LO-1140,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2020-05-04
+LO-1153,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-05-05
+LO-1097,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2020-05-07
+LO-1112,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2020-05-11
+LO-1122,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2020-05-13
+LO-1158,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2020-05-13
+LO-1142,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2020-05-15
+LO-1075,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2020-05-18
+LO-1169,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2020-05-23
+LO-1050,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2020-05-25
+LO-1077,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2020-05-25
+LO-1099,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2020-05-26
+LO-1141,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2020-05-26
+LO-1161,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2020-06-02
+LO-1123,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-06-03
+LO-1016,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2020-06-03
+LO-1107,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2020-06-04
+LO-1030,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2020-06-07
+LO-1116,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2020-06-12
+LO-1108,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2020-06-12
+LO-1072,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2020-06-14
+LO-1148,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2020-06-17
+LO-1003,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2020-06-20
+LO-1170,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2020-06-25
+LO-1028,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2020-06-25
+LO-1057,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2020-06-26
+LO-1042,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2020-07-08
+LO-1005,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2020-07-09
+LO-1033,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2020-07-11
+LO-1104,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2020-07-14
+LO-1065,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2020-07-15
+LO-1131,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2020-07-17
+LO-1047,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2020-07-18
+LO-1035,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2020-07-20
+LO-1124,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2020-07-21
+LO-1167,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-07-23
+LO-1046,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2020-07-25
+LO-1076,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2020-07-27
+LO-1032,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2020-07-28
+LO-1113,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2020-07-28
+LO-1080,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-08-02
+LO-1176,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2020-08-05
+LO-1083,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2020-08-06
+LO-1175,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2020-08-06
+LO-1024,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2020-08-11
+LO-1109,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2020-08-11
+LO-1039,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2020-08-15
+LO-1069,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2020-08-15
+LO-1159,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2020-08-16
+LO-1168,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2020-08-18
+LO-1059,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2020-08-18
+LO-1085,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2020-08-19
+LO-1043,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2020-08-20
+LO-1160,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2020-08-20
+LO-1110,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2020-08-22
+LO-1052,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2020-08-23
+LO-1091,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2020-08-26
+LO-1120,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2020-08-26
+LO-1136,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2020-09-01
+LO-1082,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2020-09-02
+LO-1029,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-09-02
+LO-1095,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2020-09-05
+LO-1130,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2020-09-05
+LO-1014,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2020-09-06
+LO-1008,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2020-09-09
+LO-1025,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2020-09-09
+LO-1062,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2020-09-10
+LO-1092,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2020-09-12
+LO-1145,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2020-09-12
+LO-1044,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2020-09-16
+LO-1157,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2020-09-18
+LO-1111,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2020-09-22
+LO-1006,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2020-09-24
+LO-1174,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2020-09-24
+LO-1133,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-09-24
+LO-1012,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2020-09-25
+LO-1011,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2020-09-25
+LO-1073,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2020-09-27
+LO-1154,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2020-10-02
+LO-1101,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2020-10-02
+LO-1023,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2020-10-03
+LO-1004,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2020-10-07
+LO-1115,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2020-10-13
+LO-1103,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2020-10-17
+LO-1038,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2020-10-19
+LO-1155,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2020-10-21
+LO-1053,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2020-10-22
+LO-1179,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2020-10-24
+LO-1021,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2020-10-24
+LO-1164,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2020-10-24
+LO-1088,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2020-10-24
+LO-1054,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2020-10-26
+LO-1041,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2020-10-28
+LO-1117,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-11-03
+LO-1165,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2020-11-04
+LO-1089,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2020-11-04
+LO-1009,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2020-11-06
+LO-1138,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2020-11-06
+LO-1118,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2020-11-10
+LO-1151,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2020-11-19
+LO-1048,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2020-11-22
+LO-1010,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2020-11-24
+LO-1036,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2020-11-24
+LO-1070,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2020-11-27
+LO-1106,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2020-12-02
+LO-1121,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2020-12-03
+LO-1055,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2020-12-05
+LO-1060,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2020-12-07
+LO-1094,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2020-12-10
+LO-1037,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2020-12-10
+LO-1027,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2020-12-11
+LO-1147,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2020-12-15
+LO-1127,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2020-12-15
+LO-1058,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2020-12-16
+LO-1126,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2020-12-17
+LO-1137,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2020-12-22
+LO-1208,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2021-01-07
+LO-1207,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2021-01-08
+LO-1244,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2021-01-14
+LO-1194,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2021-01-18
+LO-1204,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2021-02-04
+LO-1213,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2021-02-05
+LO-1225,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2021-02-10
+LO-1256,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2021-02-15
+LO-1201,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2021-03-05
+LO-1200,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2021-03-07
+LO-1233,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2021-03-07
+LO-1259,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2021-03-12
+LO-1222,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2021-03-21
+LO-1219,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2021-03-22
+LO-1189,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2021-04-03
+LO-1234,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2021-04-10
+LO-1223,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2021-04-15
+LO-1246,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2021-04-16
+LO-1190,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2021-04-18
+LO-1196,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2021-04-26
+LO-1255,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2021-04-26
+LO-1248,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2021-05-05
+LO-1258,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2021-05-17
+LO-1229,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2021-05-22
+LO-1236,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2021-05-28
+LO-1218,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2021-06-10
+LO-1209,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2021-06-13
+LO-1186,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2021-06-13
+LO-1199,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2021-06-14
+LO-1217,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2021-06-15
+LO-1243,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2021-06-22
+LO-1245,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2021-06-22
+LO-1185,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2021-06-23
+LO-1227,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2021-07-01
+LO-1214,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2021-07-01
+LO-1211,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2021-07-06
+LO-1242,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2021-07-07
+LO-1220,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2021-07-22
+LO-1247,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2021-07-23
+LO-1206,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2021-08-02
+LO-1183,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2021-08-04
+LO-1215,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2021-08-05
+LO-1181,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2021-08-05
+LO-1257,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2021-08-12
+LO-1188,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2021-08-12
+LO-1252,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2021-08-13
+LO-1241,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2021-08-16
+LO-1205,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2021-08-19
+LO-1195,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2021-08-28
+LO-1235,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2021-09-04
+LO-1226,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2021-09-06
+LO-1232,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2021-09-06
+LO-1254,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2021-09-10
+LO-1231,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2021-09-13
+LO-1184,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2021-09-15
+LO-1221,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2021-09-17
+LO-1192,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2021-09-19
+LO-1253,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2021-09-22
+LO-1238,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2021-10-18
+LO-1230,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2021-10-19
+LO-1216,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2021-10-20
+LO-1191,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2021-10-20
+LO-1240,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2021-10-21
+LO-1250,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2021-10-24
+LO-1210,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2021-10-25
+LO-1239,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2021-11-05
+LO-1202,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2021-11-08
+LO-1198,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2021-11-12
+LO-1203,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2021-11-16
+LO-1251,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2021-12-01
+LO-1197,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2021-12-04
+LO-1224,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2021-12-05
+LO-1249,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2021-12-07
+LO-1187,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2021-12-08
+LO-1182,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2021-12-12
+LO-1212,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2021-12-13
+LO-1193,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2021-12-14
+LO-1237,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2021-12-20
+LO-1180,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2021-12-25
+LO-1228,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2021-12-26
+LO-1282,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2022-01-01
+LO-1589,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2022-01-03
+LO-1498,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-01-05
+LO-1480,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2022-01-05
+LO-1274,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2022-01-06
+LO-1382,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-01-06
+LO-1521,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-01-06
+LO-1509,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-01-08
+LO-1528,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-01-09
+LO-1573,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2022-01-10
+LO-1322,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-01-10
+LO-1522,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-01-10
+LO-1341,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2022-01-11
+LO-1455,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-01-11
+LO-1354,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2022-01-11
+LO-1350,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-01-12
+LO-1555,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2022-01-16
+LO-1339,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2022-01-18
+LO-1374,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2022-01-22
+LO-1358,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2022-01-22
+LO-1405,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2022-01-22
+LO-1550,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2022-01-23
+LO-1435,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-01-25
+LO-1437,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-01-27
+LO-1331,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2022-01-28
+LO-1429,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2022-01-28
+LO-1458,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2022-02-01
+LO-1273,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-02-01
+LO-1494,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-02-01
+LO-1587,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-02-01
+LO-1290,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-02-03
+LO-1547,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-02-03
+LO-1597,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-02-04
+LO-1529,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-02-05
+LO-1442,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-02-06
+LO-1548,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-02-08
+LO-1395,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2022-02-09
+LO-1540,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-02-09
+LO-1588,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2022-02-10
+LO-1570,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2022-02-10
+LO-1451,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-02-13
+LO-1262,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2022-02-15
+LO-1500,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2022-02-15
+LO-1338,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2022-02-15
+LO-1426,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2022-02-18
+LO-1325,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2022-02-18
+LO-1575,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-02-19
+LO-1479,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-02-20
+LO-1447,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-02-20
+LO-1544,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-02-20
+LO-1294,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-02-21
+LO-1416,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2022-02-21
+LO-1298,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-02-22
+LO-1606,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-02-23
+LO-1337,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2022-02-25
+LO-1330,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2022-02-27
+LO-1541,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2022-03-01
+LO-1417,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-03-01
+LO-1457,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2022-03-02
+LO-1291,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-03-02
+LO-1332,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2022-03-04
+LO-1333,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2022-03-04
+LO-1384,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-03-04
+LO-1272,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2022-03-04
+LO-1367,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-03-06
+LO-1413,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2022-03-11
+LO-1559,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2022-03-11
+LO-1286,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2022-03-11
+LO-1464,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2022-03-11
+LO-1474,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2022-03-15
+LO-1473,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-03-15
+LO-1418,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-03-19
+LO-1497,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-03-23
+LO-1421,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2022-03-23
+LO-1511,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2022-03-24
+LO-1315,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-03-24
+LO-1454,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2022-03-25
+LO-1402,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2022-03-25
+LO-1268,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2022-03-25
+LO-1556,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2022-03-26
+LO-1565,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2022-03-26
+LO-1336,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-03-27
+LO-1260,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2022-04-02
+LO-1293,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-04-04
+LO-1586,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2022-04-05
+LO-1303,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2022-04-05
+LO-1431,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2022-04-06
+LO-1456,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-04-07
+LO-1452,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-04-08
+LO-1349,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2022-04-09
+LO-1267,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2022-04-10
+LO-1400,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-04-10
+LO-1488,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2022-04-11
+LO-1432,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-04-11
+LO-1609,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-04-12
+LO-1469,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-04-14
+LO-1607,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-04-16
+LO-1279,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2022-04-19
+LO-1549,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-04-20
+LO-1352,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-04-21
+LO-1284,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2022-04-22
+LO-1360,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-04-22
+LO-1328,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2022-04-23
+LO-1343,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-04-23
+LO-1427,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-04-24
+LO-1319,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-04-25
+LO-1571,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-04-26
+LO-1270,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2022-04-27
+LO-1308,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-04-28
+LO-1399,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-05-03
+LO-1562,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2022-05-03
+LO-1368,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-05-04
+LO-1568,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-05-04
+LO-1604,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-05-04
+LO-1496,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2022-05-05
+LO-1518,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-05-05
+LO-1419,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2022-05-05
+LO-1531,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-05-05
+LO-1394,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-05-07
+LO-1406,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2022-05-08
+LO-1424,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2022-05-09
+LO-1275,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2022-05-09
+LO-1523,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-05-09
+LO-1602,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2022-05-11
+LO-1567,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-05-12
+LO-1276,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2022-05-13
+LO-1301,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2022-05-13
+LO-1378,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-05-13
+LO-1407,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2022-05-15
+LO-1581,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2022-05-17
+LO-1362,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2022-05-18
+LO-1444,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2022-05-20
+LO-1387,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2022-05-20
+LO-1326,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-05-20
+LO-1422,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-05-21
+LO-1396,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2022-05-24
+LO-1271,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2022-05-27
+LO-1261,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-05-27
+LO-1346,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-05-27
+LO-1434,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2022-05-28
+LO-1592,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-06-04
+LO-1428,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2022-06-06
+LO-1525,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2022-06-08
+LO-1316,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-06-09
+LO-1585,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-06-10
+LO-1283,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2022-06-10
+LO-1490,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2022-06-13
+LO-1443,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2022-06-14
+LO-1501,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-06-15
+LO-1493,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2022-06-16
+LO-1533,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2022-06-18
+LO-1277,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-06-19
+LO-1572,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-06-20
+LO-1453,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2022-06-20
+LO-1569,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2022-06-21
+LO-1302,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2022-06-23
+LO-1269,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-06-25
+LO-1583,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-06-25
+LO-1519,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2022-06-26
+LO-1492,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-06-26
+LO-1340,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2022-06-27
+LO-1306,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-06-27
+LO-1318,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-06-28
+LO-1323,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2022-07-01
+LO-1320,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-07-01
+LO-1491,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-07-03
+LO-1603,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2022-07-04
+LO-1415,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2022-07-04
+LO-1578,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-07-06
+LO-1436,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-07-07
+LO-1462,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-07-08
+LO-1468,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-07-08
+LO-1605,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-07-09
+LO-1546,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2022-07-09
+LO-1450,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2022-07-10
+LO-1477,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2022-07-10
+LO-1539,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2022-07-11
+LO-1516,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-07-12
+LO-1558,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-07-12
+LO-1386,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-07-12
+LO-1310,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-07-13
+LO-1465,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-07-14
+LO-1397,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2022-07-17
+LO-1504,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-07-19
+LO-1292,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2022-07-19
+LO-1389,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-07-19
+LO-1412,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2022-07-20
+LO-1484,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-07-20
+LO-1324,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2022-07-21
+LO-1388,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2022-07-21
+LO-1266,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-07-23
+LO-1542,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-07-23
+LO-1489,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2022-07-24
+LO-1608,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-07-26
+LO-1482,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2022-07-27
+LO-1461,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2022-07-27
+LO-1508,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-07-28
+LO-1285,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-07-28
+LO-1448,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-07-28
+LO-1287,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2022-08-01
+LO-1600,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-08-02
+LO-1593,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2022-08-04
+LO-1309,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2022-08-05
+LO-1383,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-08-06
+LO-1505,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2022-08-06
+LO-1507,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-08-07
+LO-1327,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2022-08-07
+LO-1295,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2022-08-09
+LO-1420,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2022-08-10
+LO-1425,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2022-08-12
+LO-1503,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-08-13
+LO-1472,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2022-08-13
+LO-1414,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-08-14
+LO-1369,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-08-15
+LO-1554,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2022-08-16
+LO-1334,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2022-08-16
+LO-1371,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2022-08-18
+LO-1404,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-08-18
+LO-1357,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-08-18
+LO-1403,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-08-19
+LO-1392,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-08-20
+LO-1538,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2022-08-20
+LO-1373,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-08-21
+LO-1537,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-08-21
+LO-1591,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2022-08-22
+LO-1580,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-08-23
+LO-1561,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2022-08-23
+LO-1433,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2022-08-23
+LO-1288,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-08-24
+LO-1401,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2022-08-24
+LO-1520,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2022-08-25
+LO-1355,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2022-08-26
+LO-1410,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2022-08-27
+LO-1478,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-08-28
+LO-1524,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2022-09-01
+LO-1296,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-09-02
+LO-1329,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2022-09-03
+LO-1379,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2022-09-05
+LO-1483,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2022-09-07
+LO-1590,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2022-09-07
+LO-1532,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2022-09-08
+LO-1265,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2022-09-08
+LO-1365,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2022-09-10
+LO-1487,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2022-09-11
+LO-1599,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-09-11
+LO-1582,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2022-09-11
+LO-1278,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-09-12
+LO-1510,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2022-09-13
+LO-1345,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2022-09-13
+LO-1356,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-09-13
+LO-1441,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-09-13
+LO-1344,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2022-09-14
+LO-1459,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2022-09-15
+LO-1299,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-09-15
+LO-1359,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-09-15
+LO-1445,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-09-17
+LO-1471,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2022-09-18
+LO-1564,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-09-21
+LO-1311,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2022-09-21
+LO-1470,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-09-21
+LO-1560,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-09-22
+LO-1409,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-09-24
+LO-1305,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2022-10-01
+LO-1553,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2022-10-01
+LO-1364,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2022-10-03
+LO-1430,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-10-04
+LO-1449,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-10-05
+LO-1551,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2022-10-06
+LO-1543,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2022-10-06
+LO-1512,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-10-06
+LO-1476,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2022-10-06
+LO-1517,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-10-06
+LO-1281,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2022-10-08
+LO-1446,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2022-10-08
+LO-1485,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2022-10-08
+LO-1398,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2022-10-09
+LO-1577,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2022-10-10
+LO-1499,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2022-10-12
+LO-1390,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2022-10-12
+LO-1486,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2022-10-14
+LO-1579,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-10-14
+LO-1423,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2022-10-15
+LO-1552,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2022-10-16
+LO-1297,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2022-10-17
+LO-1385,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2022-10-18
+LO-1307,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-10-18
+LO-1300,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2022-10-19
+LO-1280,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2022-10-19
+LO-1502,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2022-10-19
+LO-1411,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2022-10-19
+LO-1466,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-10-19
+LO-1366,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2022-10-20
+LO-1393,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2022-10-21
+LO-1289,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2022-10-21
+LO-1601,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2022-10-22
+LO-1481,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-10-22
+LO-1598,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2022-10-22
+LO-1584,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2022-10-23
+LO-1391,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2022-10-23
+LO-1380,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2022-10-23
+LO-1506,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2022-10-25
+LO-1363,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-11-04
+LO-1347,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2022-11-05
+LO-1376,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2022-11-07
+LO-1534,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2022-11-07
+LO-1594,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-11-12
+LO-1317,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2022-11-13
+LO-1527,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2022-11-15
+LO-1313,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2022-11-16
+LO-1439,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2022-11-16
+LO-1563,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2022-11-18
+LO-1515,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2022-11-21
+LO-1312,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2022-11-23
+LO-1348,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2022-11-24
+LO-1321,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2022-11-24
+LO-1495,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-11-24
+LO-1463,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2022-11-26
+LO-1377,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2022-11-27
+LO-1381,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2022-11-27
+LO-1264,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2022-11-27
+LO-1438,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-11-27
+LO-1361,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2022-11-27
+LO-1545,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2022-11-28
+LO-1536,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2022-12-02
+LO-1440,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2022-12-02
+LO-1372,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2022-12-03
+LO-1526,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2022-12-04
+LO-1408,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-12-05
+LO-1460,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2022-12-06
+LO-1595,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2022-12-06
+LO-1530,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-12-09
+LO-1574,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2022-12-14
+LO-1304,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2022-12-16
+LO-1513,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2022-12-17
+LO-1353,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2022-12-17
+LO-1566,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2022-12-18
+LO-1335,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2022-12-19
+LO-1576,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2022-12-19
+LO-1535,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2022-12-19
+LO-1557,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2022-12-20
+LO-1263,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2022-12-20
+LO-1467,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2022-12-21
+LO-1351,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2022-12-22
+LO-1314,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2022-12-23
+LO-1342,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2022-12-24
+LO-1370,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2022-12-24
+LO-1514,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-12-24
+LO-1475,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2022-12-24
+LO-1375,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2022-12-24
+LO-1596,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2022-12-25
+LO-1779,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-01-02
+LO-1925,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-01-04
+LO-1714,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-01-05
+LO-1785,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-01-05
+LO-1828,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-01-06
+LO-1762,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-01-08
+LO-1949,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2023-01-09
+LO-1706,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-01-09
+LO-1693,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-01-09
+LO-1827,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-01-12
+LO-1821,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2023-01-14
+LO-1818,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2023-01-14
+LO-1948,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-01-15
+LO-1791,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-01-18
+LO-1794,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-01-18
+LO-1801,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-01-19
+LO-1936,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-01-19
+LO-1782,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2023-01-20
+LO-1718,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-01-21
+LO-1783,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-01-21
+LO-1685,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-01-22
+LO-1842,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2023-01-26
+LO-1919,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-01-26
+LO-1887,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-01-26
+LO-1793,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-01-26
+LO-1722,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-01-27
+LO-2008,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-01-27
+LO-1824,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2023-02-01
+LO-2057,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-02-02
+LO-1861,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-02-04
+LO-1837,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-02-04
+LO-1689,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-02-04
+LO-1805,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-02-04
+LO-1833,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-02-05
+LO-2011,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-02-05
+LO-1888,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-02-05
+LO-1885,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-02-06
+LO-1739,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-02-06
+LO-1813,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-02-06
+LO-1686,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-02-07
+LO-1911,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-02-07
+LO-1992,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-02-08
+LO-2051,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-02-08
+LO-1640,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-02-08
+LO-1984,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-02-09
+LO-1943,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-02-09
+LO-1886,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2023-02-09
+LO-1809,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-02-09
+LO-1811,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2023-02-09
+LO-1835,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-02-09
+LO-2035,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-02-09
+LO-1952,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2023-02-10
+LO-1778,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2023-02-10
+LO-1655,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-02-10
+LO-1993,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-02-10
+LO-1639,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2023-02-12
+LO-1770,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-02-13
+LO-1616,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-02-14
+LO-2041,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-02-14
+LO-1889,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-02-14
+LO-1628,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-02-15
+LO-1841,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-02-16
+LO-1897,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2023-02-16
+LO-1649,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-02-17
+LO-1803,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2023-02-17
+LO-1963,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-02-19
+LO-1996,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-02-21
+LO-2030,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-02-21
+LO-1817,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-02-24
+LO-1650,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2023-02-24
+LO-1957,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-02-24
+LO-2010,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-02-24
+LO-2048,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2023-02-24
+LO-1646,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-02-25
+LO-1954,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-02-25
+LO-1667,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2023-02-28
+LO-1687,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-03-01
+LO-1939,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-03-01
+LO-1710,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2023-03-02
+LO-1880,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-03-03
+LO-1635,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-03-03
+LO-1924,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-03-04
+LO-2045,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-03-05
+LO-2038,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-03-07
+LO-1777,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-03-07
+LO-2032,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-03-10
+LO-1983,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2023-03-10
+LO-1720,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2023-03-10
+LO-1878,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2023-03-11
+LO-1964,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-03-12
+LO-1815,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-03-13
+LO-1825,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-03-14
+LO-1751,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2023-03-15
+LO-2007,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-03-15
+LO-1743,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2023-03-15
+LO-1730,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-03-15
+LO-1849,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-03-15
+LO-1679,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-03-16
+LO-2050,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2023-03-16
+LO-1826,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-03-18
+LO-1629,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-03-19
+LO-1935,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-03-20
+LO-2029,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-03-20
+LO-2052,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-03-21
+LO-1852,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2023-03-24
+LO-1879,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-03-25
+LO-1663,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-03-27
+LO-1682,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-03-27
+LO-1961,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2023-03-27
+LO-1725,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-03-28
+LO-1742,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2023-03-28
+LO-1684,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2023-03-28
+LO-1799,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-04-02
+LO-1867,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-04-03
+LO-1709,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-04-03
+LO-1627,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-04-03
+LO-1754,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2023-04-04
+LO-1967,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-04-04
+LO-1987,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-04-04
+LO-1764,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2023-04-05
+LO-1989,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-04-07
+LO-1998,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-04-07
+LO-1716,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2023-04-07
+LO-1786,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-04-08
+LO-1836,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-04-10
+LO-2012,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-04-10
+LO-1622,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-04-10
+LO-1976,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-04-11
+LO-1893,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-04-12
+LO-1666,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-04-12
+LO-1884,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-04-13
+LO-1863,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-04-13
+LO-1719,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-04-13
+LO-1765,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-04-14
+LO-1917,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-04-15
+LO-1832,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-04-16
+LO-1977,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-04-16
+LO-1920,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-04-19
+LO-1944,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-04-19
+LO-1838,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-04-19
+LO-1850,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-04-19
+LO-1808,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-04-19
+LO-1760,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-04-20
+LO-1905,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2023-04-21
+LO-1916,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-04-22
+LO-1857,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-04-22
+LO-1908,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-04-22
+LO-2015,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-04-22
+LO-1928,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-04-22
+LO-1658,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2023-04-23
+LO-1839,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-04-23
+LO-1761,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-04-24
+LO-1701,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-04-24
+LO-1931,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-04-25
+LO-1694,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-04-26
+LO-2020,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2023-04-27
+LO-2017,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-05-04
+LO-1872,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-05-04
+LO-1856,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-05-04
+LO-1812,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-05-05
+LO-1648,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-05-05
+LO-1907,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-05-06
+LO-2003,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2023-05-07
+LO-1740,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-05-07
+LO-1631,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-05-08
+LO-1950,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-05-08
+LO-1787,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-05-08
+LO-1731,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-05-08
+LO-1988,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-05-09
+LO-1732,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-05-10
+LO-1822,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-05-10
+LO-2047,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-05-10
+LO-2006,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-05-11
+LO-1855,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-05-11
+LO-1681,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-05-12
+LO-1715,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2023-05-12
+LO-1691,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-05-13
+LO-1974,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-05-13
+LO-1975,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-05-13
+LO-1960,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-05-13
+LO-1697,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-05-14
+LO-1671,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-05-14
+LO-1702,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-05-16
+LO-1780,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-05-16
+LO-1892,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2023-05-17
+LO-1767,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-05-20
+LO-1653,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2023-05-20
+LO-1611,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-05-21
+LO-1800,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-05-21
+LO-2056,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2023-05-21
+LO-1613,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-05-22
+LO-1942,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-05-22
+LO-1746,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-05-22
+LO-1806,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-05-22
+LO-2018,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2023-05-24
+LO-1956,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-05-27
+LO-1642,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2023-06-02
+LO-1866,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-06-02
+LO-1858,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-06-03
+LO-2055,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2023-06-04
+LO-2046,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-06-04
+LO-1680,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-06-04
+LO-1969,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-06-04
+LO-2058,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-06-04
+LO-2009,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-06-05
+LO-1758,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2023-06-06
+LO-1981,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-06-07
+LO-1753,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2023-06-08
+LO-2014,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-06-10
+LO-2031,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-06-11
+LO-1999,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-06-14
+LO-1705,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-06-14
+LO-1784,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-06-14
+LO-1726,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-06-16
+LO-1994,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-06-16
+LO-1798,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-06-16
+LO-1965,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2023-06-21
+LO-2028,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-06-21
+LO-1645,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-06-22
+LO-1678,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-06-22
+LO-1890,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-06-23
+LO-1619,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-06-23
+LO-1789,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-06-24
+LO-1922,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-06-25
+LO-1814,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2023-06-25
+LO-1696,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-06-27
+LO-1968,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-07-03
+LO-1913,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-07-04
+LO-1711,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-07-04
+LO-1638,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-07-04
+LO-1630,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2023-07-05
+LO-1955,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-07-05
+LO-1618,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2023-07-07
+LO-1898,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-07-07
+LO-1865,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-07-08
+LO-1644,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-07-10
+LO-1636,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-07-10
+LO-1757,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-07-10
+LO-2013,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-07-11
+LO-1748,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-07-11
+LO-1902,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-07-11
+LO-2054,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-07-12
+LO-1728,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2023-07-13
+LO-1738,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2023-07-13
+LO-1937,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-07-13
+LO-1766,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-07-13
+LO-1843,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-07-13
+LO-1741,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-07-13
+LO-1612,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-07-14
+LO-1834,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-07-14
+LO-1614,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-07-14
+LO-1747,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-07-15
+LO-1979,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2023-07-16
+LO-2042,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-07-16
+LO-1652,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-07-18
+LO-1971,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-07-19
+LO-2023,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-07-23
+LO-1724,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-07-23
+LO-1752,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-07-23
+LO-1986,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2023-07-23
+LO-1735,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-07-25
+LO-1670,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2023-07-25
+LO-1708,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-07-26
+LO-2001,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-07-27
+LO-1733,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-07-27
+LO-1657,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-07-28
+LO-1874,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2023-08-02
+LO-1677,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-08-04
+LO-1659,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-08-04
+LO-1864,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-08-05
+LO-1978,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-08-05
+LO-1703,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-08-06
+LO-1995,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2023-08-06
+LO-1660,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2023-08-08
+LO-2039,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-08-09
+LO-1664,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-08-09
+LO-2025,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-08-11
+LO-2037,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-08-12
+LO-1862,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2023-08-14
+LO-1895,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-08-14
+LO-1749,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-08-15
+LO-1656,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2023-08-16
+LO-1729,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-08-17
+LO-1844,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-08-17
+LO-1712,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-08-17
+LO-1940,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2023-08-19
+LO-1966,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-08-20
+LO-1823,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-08-20
+LO-1796,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-08-21
+LO-1947,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-08-22
+LO-1623,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2023-08-24
+LO-1804,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-08-26
+LO-1868,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2023-08-26
+LO-1661,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-08-26
+LO-1665,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-08-26
+LO-1736,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-08-26
+LO-2026,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-08-27
+LO-1929,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-08-27
+LO-1688,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-08-28
+LO-1669,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2023-08-28
+LO-2059,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-09-01
+LO-1921,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-09-02
+LO-1846,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2023-09-04
+LO-1959,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-09-04
+LO-1903,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-09-06
+LO-1945,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2023-09-06
+LO-1869,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2023-09-06
+LO-1773,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2023-09-07
+LO-1875,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-09-07
+LO-1845,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2023-09-08
+LO-1816,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-09-10
+LO-1985,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-09-10
+LO-1859,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2023-09-11
+LO-1934,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-09-11
+LO-1763,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-09-11
+LO-2043,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2023-09-11
+LO-1692,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-09-13
+LO-1870,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-09-13
+LO-1991,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-09-15
+LO-2040,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2023-09-16
+LO-1980,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2023-09-16
+LO-1941,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-09-17
+LO-1673,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-09-18
+LO-1674,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-09-19
+LO-1759,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-09-19
+LO-1617,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-09-22
+LO-1997,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2023-09-23
+LO-1854,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-09-24
+LO-1829,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-09-24
+LO-2027,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-09-25
+LO-2016,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-09-26
+LO-1637,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2023-09-28
+LO-2022,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-09-28
+LO-2000,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2023-10-01
+LO-1873,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2023-10-01
+LO-1737,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-10-01
+LO-1973,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2023-10-03
+LO-1750,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2023-10-04
+LO-1641,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-10-04
+LO-1914,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2023-10-04
+LO-2034,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2023-10-05
+LO-1713,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-10-05
+LO-1831,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2023-10-05
+LO-1990,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-10-07
+LO-1819,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-10-07
+LO-1755,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-10-07
+LO-2005,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-10-08
+LO-1676,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-10-08
+LO-2044,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-10-09
+LO-1683,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-10-10
+LO-1695,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-10-10
+LO-1951,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-10-10
+LO-1882,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2023-10-11
+LO-1792,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2023-10-11
+LO-1698,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-10-11
+LO-1690,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-10-11
+LO-1700,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2023-10-12
+LO-1643,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-10-13
+LO-1723,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2023-10-14
+LO-1901,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2023-10-14
+LO-1915,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2023-10-14
+LO-1926,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2023-10-15
+LO-1768,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-10-16
+LO-1962,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-10-16
+LO-1662,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2023-10-16
+LO-1790,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-10-18
+LO-1717,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2023-10-19
+LO-2049,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2023-10-20
+LO-1633,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2023-10-22
+LO-1626,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-10-22
+LO-1810,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-10-22
+LO-1904,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-10-23
+LO-1876,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2023-10-26
+LO-1871,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-10-27
+LO-1972,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2023-10-27
+LO-1906,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2023-11-01
+LO-1853,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-11-02
+LO-1621,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-11-04
+LO-1675,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2023-11-04
+LO-1932,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2023-11-04
+LO-1881,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2023-11-05
+LO-1772,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-11-05
+LO-1745,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2023-11-06
+LO-2021,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-11-07
+LO-1672,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2023-11-07
+LO-1900,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2023-11-08
+LO-1647,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2023-11-08
+LO-1830,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2023-11-08
+LO-1625,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-11-10
+LO-1788,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2023-11-11
+LO-1756,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-11-11
+LO-2053,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2023-11-12
+LO-1634,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-11-12
+LO-1781,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2023-11-13
+LO-1651,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-11-15
+LO-1744,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-11-15
+LO-2024,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2023-11-16
+LO-1927,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2023-11-16
+LO-1933,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2023-11-17
+LO-1615,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-11-18
+LO-1851,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-11-20
+LO-1909,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2023-11-20
+LO-1820,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2023-11-20
+LO-1958,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-11-21
+LO-1899,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2023-11-23
+LO-1953,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-11-23
+LO-2019,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-11-24
+LO-1610,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2023-11-25
+LO-1727,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2023-11-26
+LO-1847,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2023-11-27
+LO-1807,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2023-11-27
+LO-1891,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-11-27
+LO-1938,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-12-01
+LO-1771,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-12-02
+LO-1840,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2023-12-05
+LO-1970,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-12-06
+LO-1721,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-12-06
+LO-1654,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2023-12-07
+LO-2004,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2023-12-08
+LO-1877,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2023-12-08
+LO-1910,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-12-09
+LO-2033,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2023-12-09
+LO-1775,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2023-12-10
+LO-1946,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-12-11
+LO-1624,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-12-11
+LO-1620,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2023-12-12
+LO-1632,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2023-12-13
+LO-1776,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-12-14
+LO-1774,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2023-12-14
+LO-1707,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2023-12-14
+LO-2002,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2023-12-14
+LO-1923,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2023-12-15
+LO-1930,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2023-12-15
+LO-1894,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2023-12-16
+LO-2036,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-12-18
+LO-1912,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2023-12-18
+LO-1896,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2023-12-20
+LO-1918,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2023-12-20
+LO-1797,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2023-12-21
+LO-1699,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2023-12-23
+LO-1769,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2023-12-24
+LO-1848,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2023-12-24
+LO-1734,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2023-12-24
+LO-1982,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2023-12-25
+LO-1668,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2023-12-25
+LO-1860,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2023-12-26
+LO-1704,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2023-12-26
+LO-1883,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2023-12-27
+LO-1802,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2023-12-28
+LO-1795,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2023-12-28
+LO-2434,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2024-01-02
+LO-2281,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-01-04
+LO-2284,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2024-01-07
+LO-2151,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-01-07
+LO-2115,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-01-09
+LO-2305,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2024-01-09
+LO-2275,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-01-10
+LO-2218,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2024-01-10
+LO-2113,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-01-11
+LO-2090,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2024-01-11
+LO-2418,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-01-13
+LO-2173,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2024-01-15
+LO-2169,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2024-01-16
+LO-2091,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-01-22
+LO-2346,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-01-22
+LO-2098,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-01-24
+LO-2244,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-01-24
+LO-2221,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2024-01-24
+LO-2392,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-01-26
+LO-2188,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-01-27
+LO-2170,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-01-28
+LO-2279,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-02-01
+LO-2220,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-02-01
+LO-2158,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-02-03
+LO-2415,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-02-03
+LO-2350,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-02-06
+LO-2155,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-02-08
+LO-2420,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-02-08
+LO-2272,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-02-08
+LO-2371,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-02-09
+LO-2269,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2024-02-09
+LO-2425,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-02-10
+LO-2061,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-02-11
+LO-2271,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-02-14
+LO-2124,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-02-16
+LO-2265,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-02-17
+LO-2194,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-02-18
+LO-2411,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-02-18
+LO-2280,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-02-18
+LO-2283,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-02-19
+LO-2254,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-02-20
+LO-2316,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-02-20
+LO-2320,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-02-20
+LO-2263,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-02-20
+LO-2127,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-02-21
+LO-2376,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2024-02-22
+LO-2174,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-02-22
+LO-2101,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-02-26
+LO-2348,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2024-02-28
+LO-2177,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-03-01
+LO-2311,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2024-03-01
+LO-2259,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-03-01
+LO-2195,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-03-03
+LO-2154,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-03-05
+LO-2398,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2024-03-05
+LO-2071,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-03-05
+LO-2335,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2024-03-05
+LO-2139,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-03-06
+LO-2294,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-03-06
+LO-2365,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2024-03-07
+LO-2298,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2024-03-08
+LO-2189,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-03-08
+LO-2231,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-03-09
+LO-2236,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-03-11
+LO-2331,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-03-13
+LO-2347,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-03-14
+LO-2072,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2024-03-15
+LO-2306,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-03-17
+LO-2199,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-03-18
+LO-2212,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-03-18
+LO-2132,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-03-18
+LO-2387,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-03-18
+LO-2138,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-03-19
+LO-2085,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2024-03-20
+LO-2191,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2024-03-20
+LO-2326,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-03-20
+LO-2332,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2024-03-21
+LO-2291,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-03-21
+LO-2383,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-03-22
+LO-2322,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2024-03-22
+LO-2391,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2024-03-25
+LO-2144,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-03-26
+LO-2389,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2024-03-26
+LO-2204,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-03-27
+LO-2267,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-03-27
+LO-2435,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-03-28
+LO-2253,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2024-03-28
+LO-2089,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-04-01
+LO-2136,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-04-03
+LO-2299,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2024-04-04
+LO-2402,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-04-04
+LO-2247,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-04-05
+LO-2225,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2024-04-06
+LO-2260,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2024-04-08
+LO-2270,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-04-10
+LO-2066,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-04-11
+LO-2116,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-04-11
+LO-2344,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2024-04-13
+LO-2395,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2024-04-13
+LO-2093,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2024-04-13
+LO-2246,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-04-15
+LO-2325,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-04-15
+LO-2233,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-04-17
+LO-2216,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-04-17
+LO-2339,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-04-17
+LO-2363,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2024-04-20
+LO-2307,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-04-20
+LO-2285,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-04-20
+LO-2121,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-04-22
+LO-2190,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2024-04-23
+LO-2222,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-04-24
+LO-2210,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2024-04-24
+LO-2201,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-04-25
+LO-2381,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-04-27
+LO-2289,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-04-27
+LO-2438,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2024-05-01
+LO-2180,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-05-01
+LO-2157,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-05-02
+LO-2317,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2024-05-02
+LO-2165,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-05-04
+LO-2182,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-05-04
+LO-2369,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-05-06
+LO-2393,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2024-05-06
+LO-2064,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-05-07
+LO-2133,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-05-08
+LO-2406,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2024-05-08
+LO-2358,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2024-05-10
+LO-2104,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-05-11
+LO-2318,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2024-05-12
+LO-2261,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2024-05-12
+LO-2359,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-05-14
+LO-2278,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2024-05-14
+LO-2217,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-05-15
+LO-2150,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-05-15
+LO-2286,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2024-05-15
+LO-2396,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2024-05-17
+LO-2296,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2024-05-18
+LO-2175,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2024-05-18
+LO-2187,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-05-19
+LO-2399,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2024-05-21
+LO-2226,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-05-27
+LO-2268,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-05-27
+LO-2137,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-05-27
+LO-2403,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-05-28
+LO-2340,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-06-01
+LO-2373,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-06-01
+LO-2437,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-06-01
+LO-2313,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2024-06-01
+LO-2200,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2024-06-02
+LO-2357,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2024-06-04
+LO-2327,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2024-06-04
+LO-2099,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-06-05
+LO-2178,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-06-06
+LO-2315,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2024-06-07
+LO-2214,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-06-11
+LO-2148,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-06-11
+LO-2245,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-06-11
+LO-2068,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-06-11
+LO-2102,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-06-13
+LO-2179,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2024-06-15
+LO-2197,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-06-15
+LO-2241,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2024-06-15
+LO-2239,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2024-06-16
+LO-2109,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-06-16
+LO-2076,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-06-17
+LO-2119,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-06-17
+LO-2110,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2024-06-17
+LO-2161,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2024-06-19
+LO-2143,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2024-06-20
+LO-2206,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2024-06-21
+LO-2082,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-06-22
+LO-2198,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-06-22
+LO-2078,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2024-06-22
+LO-2205,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-06-22
+LO-2439,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-06-23
+LO-2086,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-07-01
+LO-2081,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-07-02
+LO-2276,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-07-02
+LO-2186,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-07-03
+LO-2351,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-07-04
+LO-2077,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-07-05
+LO-2262,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-07-06
+LO-2337,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-07-06
+LO-2235,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-07-08
+LO-2203,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-07-09
+LO-2106,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2024-07-09
+LO-2379,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2024-07-11
+LO-2223,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2024-07-11
+LO-2232,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2024-07-14
+LO-2229,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2024-07-15
+LO-2107,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-07-16
+LO-2324,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-07-16
+LO-2419,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2024-07-17
+LO-2080,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-07-18
+LO-2321,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2024-07-18
+LO-2375,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2024-07-18
+LO-2360,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-07-18
+LO-2426,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-07-19
+LO-2342,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-07-19
+LO-2433,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2024-07-20
+LO-2117,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2024-07-22
+LO-2430,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-07-22
+LO-2429,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-07-22
+LO-2103,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-07-22
+LO-2219,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-07-23
+LO-2240,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2024-07-23
+LO-2255,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2024-07-24
+LO-2303,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2024-07-24
+LO-2407,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-07-24
+LO-2341,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-07-25
+LO-2417,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2024-07-25
+LO-2079,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-07-25
+LO-2410,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2024-07-25
+LO-2300,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2024-07-26
+LO-2230,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-07-28
+LO-2409,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-07-28
+LO-2060,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-08-02
+LO-2258,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-08-03
+LO-2266,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2024-08-04
+LO-2118,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2024-08-04
+LO-2334,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2024-08-05
+LO-2067,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-08-05
+LO-2366,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2024-08-05
+LO-2108,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2024-08-06
+LO-2224,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2024-08-06
+LO-2390,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2024-08-06
+LO-2257,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2024-08-06
+LO-2368,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-08-06
+LO-2361,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-08-07
+LO-2238,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2024-08-08
+LO-2274,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-08-09
+LO-2192,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-08-09
+LO-2120,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-08-10
+LO-2153,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-08-11
+LO-2228,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-08-12
+LO-2333,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-08-12
+LO-2213,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2024-08-13
+LO-2370,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2024-08-13
+LO-2142,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-08-14
+LO-2436,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-08-15
+LO-2282,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-08-16
+LO-2354,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-08-16
+LO-2349,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-08-17
+LO-2362,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-08-18
+LO-2092,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-08-22
+LO-2427,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-08-25
+LO-2065,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-08-27
+LO-2408,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-09-02
+LO-2125,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-09-03
+LO-2388,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-09-03
+LO-2319,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-09-03
+LO-2070,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2024-09-04
+LO-2432,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-09-05
+LO-2207,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-09-06
+LO-2149,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-09-09
+LO-2156,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-09-10
+LO-2193,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-09-11
+LO-2168,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-09-12
+LO-2141,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-09-13
+LO-2185,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-09-13
+LO-2250,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-09-13
+LO-2312,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-09-14
+LO-2128,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2024-09-16
+LO-2323,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2024-09-18
+LO-2167,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2024-09-18
+LO-2095,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-09-18
+LO-2401,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2024-09-19
+LO-2135,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2024-09-19
+LO-2172,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-09-19
+LO-2394,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-09-20
+LO-2400,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-09-21
+LO-2424,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2024-09-21
+LO-2100,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2024-09-21
+LO-2273,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-09-25
+LO-2352,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2024-09-25
+LO-2308,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2024-09-25
+LO-2096,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2024-09-27
+LO-2309,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2024-09-27
+LO-2264,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-09-28
+LO-2297,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2024-10-01
+LO-2292,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-10-03
+LO-2083,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2024-10-04
+LO-2234,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2024-10-04
+LO-2414,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2024-10-05
+LO-2181,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-10-06
+LO-2423,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-10-06
+LO-2385,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2024-10-07
+LO-2428,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-10-08
+LO-2343,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-10-08
+LO-2328,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-10-11
+LO-2237,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-10-11
+LO-2249,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2024-10-12
+LO-2374,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-10-12
+LO-2105,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-10-12
+LO-2114,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2024-10-16
+LO-2147,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2024-10-16
+LO-2302,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2024-10-16
+LO-2122,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2024-10-17
+LO-2304,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-10-17
+LO-2069,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-10-19
+LO-2097,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-10-20
+LO-2062,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-10-21
+LO-2129,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2024-10-21
+LO-2251,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2024-10-21
+LO-2131,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-10-22
+LO-2345,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-10-22
+LO-2310,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-10-26
+LO-2293,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2024-10-27
+LO-2256,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2024-11-01
+LO-2162,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-11-01
+LO-2416,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-11-01
+LO-2146,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-11-02
+LO-2404,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2024-11-03
+LO-2367,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-11-05
+LO-2355,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2024-11-05
+LO-2152,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2024-11-06
+LO-2288,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-11-09
+LO-2160,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2024-11-09
+LO-2088,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-11-10
+LO-2215,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-11-11
+LO-2164,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2024-11-11
+LO-2353,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2024-11-11
+LO-2422,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2024-11-12
+LO-2163,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2024-11-12
+LO-2140,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2024-11-12
+LO-2208,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2024-11-13
+LO-2074,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2024-11-13
+LO-2202,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2024-11-16
+LO-2084,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-11-16
+LO-2397,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-11-16
+LO-2159,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2024-11-17
+LO-2196,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2024-11-17
+LO-2372,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-11-18
+LO-2183,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2024-11-18
+LO-2130,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-11-19
+LO-2330,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2024-11-19
+LO-2377,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2024-11-19
+LO-2287,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2024-11-20
+LO-2248,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2024-11-23
+LO-2184,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2024-11-23
+LO-2075,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2024-11-24
+LO-2413,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2024-11-25
+LO-2314,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2024-11-26
+LO-2431,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2024-11-27
+LO-2227,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2024-12-02
+LO-2301,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2024-12-03
+LO-2405,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2024-12-04
+LO-2380,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2024-12-04
+LO-2386,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2024-12-05
+LO-2211,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2024-12-06
+LO-2338,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2024-12-06
+LO-2126,Notion,Productivity,United States,San Francisco,North America,2013,800,Private,2024-12-07
+LO-2073,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-12-08
+LO-2364,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-12-09
+LO-2356,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2024-12-10
+LO-2243,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2024-12-13
+LO-2094,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2024-12-13
+LO-2412,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-12-14
+LO-2166,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2024-12-16
+LO-2421,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2024-12-17
+LO-2384,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2024-12-18
+LO-2290,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2024-12-18
+LO-2336,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2024-12-19
+LO-2242,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2024-12-20
+LO-2277,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2024-12-20
+LO-2378,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2024-12-21
+LO-2209,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2024-12-21
+LO-2329,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2024-12-21
+LO-2111,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-12-21
+LO-2145,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2024-12-22
+LO-2252,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2024-12-22
+LO-2295,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2024-12-22
+LO-2123,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2024-12-23
+LO-2382,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2024-12-24
+LO-2063,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-12-25
+LO-2176,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2024-12-25
+LO-2171,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2024-12-26
+LO-2087,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2024-12-26
+LO-2112,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2024-12-27
+LO-2134,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2024-12-28
+LO-2648,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2025-01-01
+LO-2718,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2025-01-02
+LO-2585,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2025-01-02
+LO-2559,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-01-02
+LO-2567,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2025-01-03
+LO-2712,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2025-01-04
+LO-2694,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-01-05
+LO-2472,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2025-01-05
+LO-2571,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-01-07
+LO-2610,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-01-07
+LO-2742,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2025-01-08
+LO-2710,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2025-01-09
+LO-2703,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2025-01-10
+LO-2558,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2025-01-13
+LO-2709,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2025-01-14
+LO-2692,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2025-01-15
+LO-2695,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2025-01-15
+LO-2584,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2025-01-15
+LO-2518,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2025-01-16
+LO-2653,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2025-01-16
+LO-2643,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2025-01-18
+LO-2647,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2025-01-21
+LO-2657,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2025-01-21
+LO-2497,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2025-01-22
+LO-2615,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-01-23
+LO-2566,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2025-01-23
+LO-2547,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-01-23
+LO-2515,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-01-24
+LO-2500,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2025-01-25
+LO-2680,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2025-01-25
+LO-2736,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-01-27
+LO-2602,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2025-01-27
+LO-2492,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-02-01
+LO-2597,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-02-02
+LO-2616,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2025-02-03
+LO-2605,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2025-02-03
+LO-2636,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2025-02-03
+LO-2665,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2025-02-05
+LO-2697,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-02-06
+LO-2473,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-02-08
+LO-2460,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-02-11
+LO-2527,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-02-12
+LO-2617,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-02-12
+LO-2757,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2025-02-12
+LO-2530,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2025-02-13
+LO-2613,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-02-13
+LO-2733,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2025-02-14
+LO-2727,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2025-02-15
+LO-2618,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2025-02-17
+LO-2462,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-02-18
+LO-2739,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2025-02-19
+LO-2495,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-02-20
+LO-2628,Wise,Fintech,United Kingdom,London,Europe,2011,5500,Public,2025-02-20
+LO-2726,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2025-02-21
+LO-2468,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2025-02-23
+LO-2525,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2025-02-25
+LO-2662,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2025-02-26
+LO-2588,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2025-02-26
+LO-2582,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-02-27
+LO-2465,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-02-27
+LO-2464,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-02-27
+LO-2516,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2025-03-02
+LO-2444,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-03-03
+LO-2482,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2025-03-03
+LO-2583,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-03-05
+LO-2624,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-03-05
+LO-2581,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-03-05
+LO-2483,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-03-06
+LO-2564,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2025-03-09
+LO-2611,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2025-03-10
+LO-2498,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2025-03-11
+LO-2511,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2025-03-12
+LO-2480,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-03-12
+LO-2702,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-03-13
+LO-2494,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-03-13
+LO-2741,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2025-03-14
+LO-2667,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2025-03-15
+LO-2701,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-03-16
+LO-2475,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2025-03-16
+LO-2487,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2025-03-19
+LO-2634,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2025-03-21
+LO-2686,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2025-03-22
+LO-2467,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2025-03-23
+LO-2555,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2025-03-23
+LO-2749,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2025-03-23
+LO-2731,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2025-03-25
+LO-2683,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2025-03-25
+LO-2620,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2025-03-26
+LO-2688,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-03-26
+LO-2713,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-03-27
+LO-2654,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-03-27
+LO-2632,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2025-03-28
+LO-2491,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2025-04-01
+LO-2691,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2025-04-01
+LO-2693,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2025-04-02
+LO-2504,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-04-02
+LO-2724,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2025-04-05
+LO-2503,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2025-04-05
+LO-2722,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2025-04-06
+LO-2690,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-04-07
+LO-2599,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2025-04-11
+LO-2656,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2025-04-11
+LO-2651,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2025-04-12
+LO-2650,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2025-04-13
+LO-2646,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2025-04-15
+LO-2443,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-04-15
+LO-2488,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-04-16
+LO-2456,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-04-16
+LO-2698,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2025-04-16
+LO-2454,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-04-18
+LO-2655,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2025-04-18
+LO-2484,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2025-04-18
+LO-2531,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-04-20
+LO-2603,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-04-22
+LO-2594,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2025-04-23
+LO-2540,Nvidia,Semiconductors / AI,United States,Santa Clara,North America,1993,29600,Public,2025-04-23
+LO-2604,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2025-04-23
+LO-2591,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2025-04-26
+LO-2545,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-04-26
+LO-2550,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-04-28
+LO-2501,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-04-28
+LO-2601,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2025-04-28
+LO-2574,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-05-01
+LO-2569,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2025-05-02
+LO-2696,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2025-05-02
+LO-2535,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2025-05-04
+LO-2553,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-05-05
+LO-2641,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2025-05-06
+LO-2642,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2025-05-07
+LO-2486,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2025-05-08
+LO-2720,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-05-08
+LO-2687,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2025-05-08
+LO-2682,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2025-05-09
+LO-2751,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2025-05-09
+LO-2671,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2025-05-10
+LO-2554,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-05-10
+LO-2759,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2025-05-11
+LO-2639,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2025-05-12
+LO-2510,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-05-12
+LO-2570,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2025-05-14
+LO-2524,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-05-18
+LO-2549,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-05-18
+LO-2748,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-05-18
+LO-2734,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-05-25
+LO-2563,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2025-05-27
+LO-2586,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2025-06-01
+LO-2457,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2025-06-02
+LO-2596,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2025-06-03
+LO-2528,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-06-04
+LO-2590,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2025-06-05
+LO-2579,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-06-05
+LO-2735,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2025-06-06
+LO-2681,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2025-06-07
+LO-2668,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2025-06-08
+LO-2539,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2025-06-11
+LO-2730,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-06-11
+LO-2606,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2025-06-12
+LO-2629,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-06-13
+LO-2663,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2025-06-14
+LO-2544,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-06-14
+LO-2670,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-06-16
+LO-2485,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2025-06-18
+LO-2640,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-06-19
+LO-2466,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-06-20
+LO-2728,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2025-06-22
+LO-2490,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2025-06-22
+LO-2557,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2025-06-23
+LO-2711,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2025-06-24
+LO-2708,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2025-06-25
+LO-2471,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-06-26
+LO-2593,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2025-06-28
+LO-2476,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-06-28
+LO-2600,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2025-06-28
+LO-2595,Grab,Ride-Hailing / Fintech,Singapore,Singapore,Asia,2012,11000,Public,2025-07-05
+LO-2747,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2025-07-05
+LO-2548,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-07-05
+LO-2658,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-07-06
+LO-2469,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2025-07-06
+LO-2573,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2025-07-09
+LO-2625,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2025-07-11
+LO-2638,Ericsson,Telecommunications,Sweden,Stockholm,Europe,1876,100000,Public,2025-07-12
+LO-2672,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2025-07-12
+LO-2552,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-07-12
+LO-2560,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2025-07-12
+LO-2685,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-07-13
+LO-2542,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-07-16
+LO-2575,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2025-07-18
+LO-2529,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-07-18
+LO-2626,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2025-07-19
+LO-2543,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-07-22
+LO-2447,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-07-22
+LO-2750,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2025-08-03
+LO-2644,Rakuten,E-Commerce,Japan,Tokyo,Asia,1997,32000,Public,2025-08-03
+LO-2752,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-08-04
+LO-2496,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-08-05
+LO-2744,DocuSign,E-Signature,United States,San Francisco,North America,2003,7400,Public,2025-08-05
+LO-2635,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2025-08-06
+LO-2673,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-08-07
+LO-2502,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-08-08
+LO-2470,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2025-08-09
+LO-2645,Hugging Face,AI / Open Source,United States,New York,North America,2016,400,Private,2025-08-09
+LO-2537,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2025-08-09
+LO-2627,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2025-08-10
+LO-2580,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2025-08-10
+LO-2523,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2025-08-12
+LO-2745,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-08-13
+LO-2506,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2025-08-14
+LO-2441,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-08-16
+LO-2753,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-08-17
+LO-2666,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2025-08-18
+LO-2755,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-08-18
+LO-2455,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2025-08-20
+LO-2561,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2025-08-20
+LO-2725,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2025-08-24
+LO-2463,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2025-08-25
+LO-2738,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2025-08-26
+LO-2664,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-08-26
+LO-2746,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2025-08-27
+LO-2717,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2025-08-28
+LO-2578,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2025-08-28
+LO-2699,Figma,Design Software,United States,San Francisco,North America,2012,1200,Private,2025-09-02
+LO-2509,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2025-09-02
+LO-2619,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2025-09-02
+LO-2659,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-09-02
+LO-2534,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2025-09-04
+LO-2508,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2025-09-04
+LO-2675,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-09-06
+LO-2489,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-09-07
+LO-2621,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-09-07
+LO-2445,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-09-11
+LO-2714,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2025-09-11
+LO-2743,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-09-13
+LO-2538,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2025-09-14
+LO-2684,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2025-09-14
+LO-2576,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-09-14
+LO-2520,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-09-15
+LO-2526,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-09-17
+LO-2522,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2025-09-21
+LO-2669,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-09-22
+LO-2704,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2025-09-22
+LO-2446,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-09-22
+LO-2474,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2025-09-24
+LO-2448,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2025-09-25
+LO-2521,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2025-09-26
+LO-2541,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2025-09-26
+LO-2614,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2025-09-26
+LO-2630,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2025-09-26
+LO-2689,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-09-26
+LO-2481,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2025-09-27
+LO-2612,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-10-02
+LO-2758,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2025-10-03
+LO-2706,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2025-10-05
+LO-2450,Oracle,Enterprise Software,United States,Austin,North America,1977,164000,Public,2025-10-05
+LO-2754,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2025-10-06
+LO-2461,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-10-06
+LO-2716,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-10-09
+LO-2459,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2025-10-10
+LO-2679,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-10-11
+LO-2512,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2025-10-13
+LO-2577,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2025-10-14
+LO-2519,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2025-10-19
+LO-2607,Instacart,Grocery Delivery,United States,San Francisco,North America,2012,10000,Public,2025-10-19
+LO-2652,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2025-10-20
+LO-2598,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2025-10-22
+LO-2505,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2025-10-22
+LO-2649,Siemens,Industrial Tech,Germany,Munich,Europe,1847,320000,Public,2025-10-23
+LO-2452,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-10-23
+LO-2705,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2025-10-24
+LO-2707,Intel,Semiconductors,United States,Santa Clara,North America,1968,124800,Public,2025-10-24
+LO-2493,Spotify,Music Streaming,Sweden,Stockholm,Europe,2006,9800,Public,2025-10-27
+LO-2532,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2025-10-27
+LO-2609,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2025-10-28
+LO-2729,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-10-28
+LO-2676,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2025-10-28
+LO-2453,Salesforce,Enterprise Software,United States,San Francisco,North America,1999,79000,Public,2025-11-03
+LO-2587,Airbnb,Travel Tech,United States,San Francisco,North America,2008,6900,Public,2025-11-03
+LO-2517,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-11-03
+LO-2440,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-11-04
+LO-2458,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-11-04
+LO-2623,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2025-11-05
+LO-2715,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2025-11-06
+LO-2546,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2025-11-06
+LO-2700,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2025-11-08
+LO-2451,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2025-11-09
+LO-2562,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2025-11-09
+LO-2478,Meta,Social Media,United States,Menlo Park,North America,2004,87000,Public,2025-11-10
+LO-2631,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2025-11-10
+LO-2449,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2025-11-12
+LO-2661,Canva,Design Software,Australia,Sydney,Oceania,2012,4000,Private,2025-11-13
+LO-2568,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2025-11-16
+LO-2633,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2025-11-18
+LO-2660,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2025-11-18
+LO-2723,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-11-18
+LO-2514,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2025-11-19
+LO-2592,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2025-11-20
+LO-2556,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2025-11-21
+LO-2732,Sea Limited,E-Commerce / Gaming,Singapore,Singapore,Asia,2009,60000,Public,2025-11-22
+LO-2565,Stripe,Fintech,United States,San Francisco,North America,2010,8000,Private,2025-11-22
+LO-2721,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-11-25
+LO-2551,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2025-11-26
+LO-2737,ByteDance,Social Media / AI,China,Beijing,Asia,2012,150000,Private,2025-11-26
+LO-2740,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2025-11-28
+LO-2536,Pinterest,Social Media,United States,San Francisco,North America,2009,5700,Public,2025-12-03
+LO-2622,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2025-12-05
+LO-2719,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2025-12-06
+LO-2442,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2025-12-06
+LO-2677,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2025-12-08
+LO-2756,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2025-12-10
+LO-2589,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2025-12-11
+LO-2674,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2025-12-13
+LO-2499,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2025-12-13
+LO-2533,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2025-12-14
+LO-2608,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2025-12-15
+LO-2477,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2025-12-18
+LO-2479,Tencent,Gaming / Social Media,China,Shenzhen,Asia,1998,106000,Public,2025-12-18
+LO-2572,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2025-12-19
+LO-2637,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2025-12-19
+LO-2507,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2025-12-26
+LO-2678,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2025-12-28
+LO-2513,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2025-12-28
+LO-2845,SAP,Enterprise Software,Germany,Walldorf,Europe,1972,107000,Public,2026-01-01
+LO-2839,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2026-01-01
+LO-2801,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2026-01-01
+LO-2779,Infosys,IT Services,India,Bangalore,Asia,1981,340000,Public,2026-01-01
+LO-2791,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2026-01-02
+LO-2809,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2026-01-02
+LO-2814,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2026-01-02
+LO-2832,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2026-01-02
+LO-2776,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2026-01-02
+LO-2833,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2026-01-03
+LO-2804,Tesla,Electric Vehicles / AI,United States,Austin,North America,2003,140000,Public,2026-01-04
+LO-2838,Reddit,Social Media,United States,San Francisco,North America,2005,2000,Public,2026-01-05
+LO-2800,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2026-01-06
+LO-2787,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2026-01-06
+LO-2780,Coupang,E-Commerce,South Korea,Seoul,Asia,2010,70000,Public,2026-01-06
+LO-2822,Adobe,Creative Software,United States,San Jose,North America,1982,30000,Public,2026-01-06
+LO-2798,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2026-01-07
+LO-2790,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2026-01-07
+LO-2784,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2026-01-08
+LO-2847,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2026-01-10
+LO-2763,Twitter / X,Social Media,United States,San Francisco,North America,2006,7500,Private,2026-01-10
+LO-2810,Lyft,Ride-Hailing,United States,San Francisco,North America,2012,4000,Public,2026-01-11
+LO-2819,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2026-01-12
+LO-2846,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2026-01-12
+LO-2811,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2026-01-12
+LO-2827,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2026-01-12
+LO-2815,Nubank,Fintech,Brazil,São Paulo,South America,2013,8000,Public,2026-01-14
+LO-2778,Zoom,Video Communications,United States,San Jose,North America,2011,8400,Public,2026-01-14
+LO-2808,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-01-15
+LO-2837,Mistral AI,Artificial Intelligence,France,Paris,Europe,2023,80,Private,2026-01-16
+LO-2818,Snap Inc.,Social Media,United States,Santa Monica,North America,2011,5700,Public,2026-01-18
+LO-2816,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2026-01-18
+LO-2783,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-01-18
+LO-2775,Microsoft,Software / Cloud,United States,Redmond,North America,1975,221000,Public,2026-01-18
+LO-2828,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-01-18
+LO-2834,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-01-19
+LO-2795,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-01-19
+LO-2802,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2026-01-19
+LO-2793,Discord,Social Platform,United States,San Francisco,North America,2012,600,Private,2026-01-20
+LO-2765,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2026-01-21
+LO-2777,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2026-01-22
+LO-2799,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2026-01-22
+LO-2813,Shopify,E-Commerce,Canada,Ottawa,North America,2006,11600,Public,2026-01-23
+LO-2805,Databricks,Data / AI,United States,San Francisco,North America,2013,7000,Private,2026-01-24
+LO-2788,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2026-01-25
+LO-2796,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2026-01-25
+LO-2782,SoftBank,Investment / Tech,Japan,Tokyo,Asia,1981,60000,Public,2026-01-26
+LO-2760,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2026-01-27
+LO-2766,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2026-01-27
+LO-2831,Anthropic,Artificial Intelligence,United States,San Francisco,North America,2021,1500,Private,2026-01-28
+LO-2769,Booking.com,Travel Tech,Netherlands,Amsterdam,Europe,1996,21400,Public,2026-01-28
+LO-2768,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2026-02-01
+LO-2843,Zillow,Real Estate Tech,United States,Seattle,North America,2006,6500,Public,2026-02-03
+LO-2794,Stability AI,Generative AI,United Kingdom,London,Europe,2019,200,Private,2026-02-03
+LO-2789,OpenAI,Artificial Intelligence,United States,San Francisco,North America,2015,3500,Private,2026-02-03
+LO-2807,Coinbase,Cryptocurrency,United States,San Francisco,North America,2012,4900,Public,2026-02-04
+LO-2835,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2026-02-04
+LO-2825,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2026-02-04
+LO-2785,Robinhood,Fintech,United States,Menlo Park,North America,2013,3800,Public,2026-02-05
+LO-2781,Swiggy,Food Delivery,India,Bangalore,Asia,2014,6000,Private,2026-02-05
+LO-2840,Bolt,Ride-Hailing,Estonia,Tallinn,Europe,2013,4000,Private,2026-02-07
+LO-2771,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2026-02-07
+LO-2821,Uber,Ride-Hailing / Delivery,United States,San Francisco,North America,2009,32800,Public,2026-02-08
+LO-2836,HubSpot,Marketing Software,United States,Cambridge,North America,2006,7400,Public,2026-02-08
+LO-2774,AMD,Semiconductors,United States,Santa Clara,North America,1969,26000,Public,2026-02-08
+LO-2806,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2026-02-08
+LO-2761,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2026-02-09
+LO-2820,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2026-02-13
+LO-2812,Deliveroo,Food Delivery,United Kingdom,London,Europe,2013,3500,Public,2026-02-14
+LO-2792,Amazon,E-Commerce / Cloud,United States,Seattle,North America,1994,1540000,Public,2026-02-15
+LO-2786,Apple,Consumer Electronics,United States,Cupertino,North America,1976,164000,Public,2026-02-15
+LO-2824,Philips,Health Tech,Netherlands,Amsterdam,Europe,1891,79000,Public,2026-02-17
+LO-2829,Rappi,Delivery,Colombia,Bogotá,South America,2015,4000,Private,2026-02-17
+LO-2848,DoorDash,Food Delivery,United States,San Francisco,North America,2013,19000,Public,2026-02-17
+LO-2841,Cisco,Networking,United States,San Jose,North America,1984,84900,Public,2026-02-18
+LO-2772,MercadoLibre,E-Commerce,Argentina,Buenos Aires,South America,1999,40000,Public,2026-02-19
+LO-2817,Wipro,IT Services,India,Bangalore,Asia,1945,250000,Public,2026-02-19
+LO-2767,Twilio,Cloud Communications,United States,San Francisco,North America,2008,8100,Public,2026-02-19
+LO-2803,Alibaba,E-Commerce / Cloud,China,Hangzhou,Asia,1999,220000,Public,2026-02-20
+LO-2773,Atlassian,Developer Tools,Australia,Sydney,Oceania,2002,11000,Public,2026-02-22
+LO-2823,IBM,Enterprise Tech / AI,United States,Armonk,North America,1911,288000,Public,2026-02-23
+LO-2842,Klarna,Fintech,Sweden,Stockholm,Europe,2005,5000,Private,2026-02-23
+LO-2826,Netflix,Streaming,United States,Los Gatos,North America,1997,13000,Public,2026-02-24
+LO-2797,Samsung Electronics,Consumer Electronics,South Korea,Suwon,Asia,1969,270000,Public,2026-02-25
+LO-2762,GoTo,Super App,Indonesia,Jakarta,Asia,2021,30000,Public,2026-02-25
+LO-2764,Revolut,Fintech,United Kingdom,London,Europe,2015,8000,Private,2026-02-26
+LO-2849,Scale AI,AI Data,United States,San Francisco,North America,2016,1500,Private,2026-02-26
+LO-2770,BioNTech,Biotech / AI,Germany,Mainz,Europe,2008,6000,Public,2026-02-27
+LO-2830,Google,Search / AI,United States,Mountain View,North America,1998,182000,Public,2026-02-28
+LO-2844,Palantir,Data Analytics / AI,United States,Denver,North America,2003,3800,Public,2026-02-28
